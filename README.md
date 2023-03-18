@@ -1,5 +1,5 @@
 # corne-keymaps-with-oled-displays-
-these are just some keymaps that i have made with some fun stuff on the oleds these are meant for a 128 x 32 OLED that is vertial. (please note: due to some memory issues the only RGB settings that are available is rainbow swirl) note: additionaly to using the code provided, you will also have to add "OLED_ENABLE = yes" for both maps and " WPM_ENABLE = yes " for the bongo cat one. 
+these are just some keymaps that i have made with some fun stuff on the oleds these are meant for a 128 x 32 OLED that is vertial. (please note: due to some memory issues the only RGB settings that are available is rainbow swirl) note: additionaly to using the code provided, you will also have to add "OLED_ENABLE = yes" for both maps and " WPM_ENABLE = yes " for the bongo cat one, these should be added to rules.mk. 
 
 the eva logo map looks like this: 
 
